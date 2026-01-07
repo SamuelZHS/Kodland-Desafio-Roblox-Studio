@@ -1,4 +1,4 @@
-# README – Desafio Roblox Studio
+# Desafio Roblox Studio
 
 ## Visão Geral
 
